@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mooxa
 - 👀 I’m interested in iOS and macOS development
-- 🌱 I’m currently learning swiftui and uikit
+- 🌱 I’m currently learning swiftui and uikit and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
